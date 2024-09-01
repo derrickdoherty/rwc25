@@ -2,6 +2,6 @@ p.test {
   color: #FF0000;
 }
 
-page_selection_eventDate .product_right_img {
+#page_selection_eventDate .product_right_img {
   background-color: blue;
 }
